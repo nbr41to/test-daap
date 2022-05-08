@@ -11,7 +11,7 @@ npx hardhat
 
 contract のデプロイ
 
-localhost
+### localhost の場合
 
 server を起動する
 
@@ -23,7 +23,7 @@ npx hardhat node
 npx hardhat run scripts/sample-script.js
 ```
 
-ropsten
+### ropsten の場合
 
 ```
 npx hardhat run scripts/sample-script.js --network ropsten
