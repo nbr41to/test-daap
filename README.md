@@ -36,3 +36,7 @@ npx hardhat run scripts/sample-script.js --network ropsten
 ```
 yarn add ethers
 ```
+
+## Reference
+
+https://zenn.dev/ktechb/articles/66a80c3640a3e3
